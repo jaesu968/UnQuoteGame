@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unquote</string>
+    <string name="questions_remaining">questions remaining</string>
+    <string name="submit">submit</string>
+</resources>
